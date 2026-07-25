@@ -11,7 +11,7 @@ My core expertise spans data analysis, EDI process optimization, and business da
 In addition to my EDI and data management responsibilities, I have been building and deploying web applications that streamline data workflows and automate internal processes. These projects reflect my growing focus on full-stack development using Python, Java, and SQL to create efficient, user-focused applications that bridge business logic with data-driven insights.
 ## Projects
 ### E-Commerce Project
-
+<a href="https://github.com/WaterStrider21/D287_Emily-s_Wagons">Emily's Wagons Repository(Ecommerce Project)</a>
 <a href="https://www.youtube.com/watch?v=zy6yjjl9pjU">Video</a>
 ✅ A full-stack e-commerce application that was built using Java and HTML 
 ✅The backend includes a product repository, with controllers that validate when inventory is below minimum, 
@@ -19,9 +19,9 @@ above maximum, out of stock.
 ✅The user interface is interactive fully combining the backend for a streamlined user experience. The owner 
 can update inventory and add parts. The buyer can purchase a completed product and check out
 
-### Simple Timer
+<!--### Simple Timer
 ### 
-
+-->
 ## Education
 I hold an Associate of Science in Accounting from Harper College and completed a Bachelor of Science in Computer Science in June 2026. I am available for new opportunities in the technology and Fintech sectors.
 
