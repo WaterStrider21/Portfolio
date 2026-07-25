@@ -1,5 +1,5 @@
 # Portfolio
-[CodePen]()
+[img]([CodePen](https://codepen.io/your-work)CodePen_logo.png)
 [LinkedIn]()
 [GitHub]()
 Hi I'm Emily,
