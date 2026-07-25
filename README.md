@@ -1,12 +1,11 @@
 # Portfolio
-[![CodePen](https://github.com/WaterStrider21/Portfolio/blob/main/CodePen_logo.png?raw=true)](https://codepen.io/your-work)
+<!--[![CodePen](https://github.com/WaterStrider21/Portfolio/blob/main/CodePen_logo.png?raw=true)](https://codepen.io/your-work)
 [![LinkedIn](https://github.com/WaterStrider21/Portfolio/blob/main/LI-Logo.png)](https://www.linkedin.com/in/emily-l-498871115/)
-[![GitHub](https://github.com/WaterStrider21/Portfolio/blob/main/GitHub_Lockup_White_Clearspace.png)](https://github.com/WaterStrider21)
+[![GitHub](https://github.com/WaterStrider21/Portfolio/blob/main/GitHub_Lockup_White_Clearspace.png)](https://github.com/WaterStrider21)-->
 <p align="left">
-  <a href="https://codepen.io/your-work"><img src="CodePen_logo.png" alt="CodePen" height="32"></a>
-  <a href=""><img src="CodePen_logo.png" alt="CodePen" height="32"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="LI-Logo.png" alt="LinkedIn" height="32"></a>
-  <a href="https://github.com/WaterStrider21"><img src="GitHub_Lockup_White_Clearspace.png" alt="GitHub" height="32"></a>
+  <a href="https://codepen.io/your-work"><img src="CodePen_logo.png" alt="CodePen" height="18"></a>
+  <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a>
+  <a href="https://github.com/WaterStrider21"><img src="GitHub_Lockup_White_Clearspace.png" alt="GitHub" height="18"></a>
 </p>
 Hi I'm Emily,
 
