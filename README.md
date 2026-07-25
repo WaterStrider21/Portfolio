@@ -12,10 +12,13 @@ In addition to my EDI and data management responsibilities, I have been building
 ## Projects
 ### E-Commerce Project
 <a href="https://github.com/WaterStrider21/D287_Emily-s_Wagons">Emily's Wagons Repository(Ecommerce Project)</a>
+<br>
 <a href="https://www.youtube.com/watch?v=zy6yjjl9pjU">Video</a>
+<br>
 ✅ A full-stack e-commerce application that was built using Java and HTML 
+<br>
 ✅The backend includes a product repository, with controllers that validate when inventory is below minimum, 
-above maximum, out of stock.  
+above maximum, out of stock.<br>
 ✅The user interface is interactive fully combining the backend for a streamlined user experience. The owner 
 can update inventory and add parts. The buyer can purchase a completed product and check out
 
