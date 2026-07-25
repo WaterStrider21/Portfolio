@@ -1,7 +1,7 @@
 # Portfolio
-[img]([CodePen](https://codepen.io/your-work)CodePen_logo.png)
-[LinkedIn]()
-[GitHub]()
+[![CodePen](https://github.com/WaterStrider21/Portfolio/blob/main/CodePen_logo.png?raw=true)](https://codepen.io/your-work)
+[![LinkedIn](https://github.com/WaterStrider21/Portfolio/blob/main/LI-Logo.png)](https://www.linkedin.com/in/emily-l-498871115/)
+[![GitHub](https://github.com/WaterStrider21/Portfolio/blob/main/GitHub_Lockup_White_Clearspace.png)](https://github.com/WaterStrider21)
 Hi I'm Emily,
 
 My core expertise spans data analysis, EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
