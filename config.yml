@@ -4,8 +4,11 @@ project images:
 project videos:
 project repositories:
 LinkedIn: https://www.linkedin.com/in/emily-l-498871115/
+img: https://github.com/WaterStrider21/Portfolio/blob/main/LI-Logo.png
 CodePen: https://codepen.io/waterstrider21
+img: https://github.com/WaterStrider21/Portfolio/blob/main/CodePen_logo.png
 GitHub: https://github.com/WaterStrider21
+img: https://github.com/WaterStrider21/Portfolio/blob/main/GitHub_Lockup_White_Clearspace.png
 CV: https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc50e894d94ee376b7baf9be5adcc/EF_Resume_72026.docx.pdf
 theme: jekyll-theme-minimal
 
