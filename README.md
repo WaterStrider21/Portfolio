@@ -1,7 +1,7 @@
 # Portfolio
 
 <p>
-  <a href="https://codepen.io/your-work"><img src="CodePen_logo.png" alt="CodePen" height="18"></a>
+  <a href="https://codepen.io/waterstrider21"><img src="CodePen_logo.png" alt="CodePen" height="18"></a>
   <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a>
   <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
 </p>
