@@ -7,8 +7,9 @@
 
 Hi I'm Emily,
 
-My core expertise spans data analysis, EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
-In addition to my EDI and data management responsibilities, I have been building and deploying web applications that streamline data workflows and automate internal processes. These projects reflect my growing focus on full-stack development using Python, Java, and SQL to create efficient, user-focused applications that bridge business logic with data-driven insights.
+My core expertise spans EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
+In addition to my EDI and data analysis responsibilities, I have been building and deploying web applications that streamline data workflows and automate internal processes. These projects reflect my growing focus on full-stack development using HTML, CSS, Typescript, JavaScript, Python, Java, and SQL to create efficient, user-focused applications.
+
 ## Projects
 ### E-Commerce Project
 <a href="https://github.com/WaterStrider21/D287_Emily-s_Wagons">Emily's Wagons Repository(Ecommerce Project)</a>
@@ -22,9 +23,20 @@ above maximum, out of stock.<br>
 ✅The user interface is interactive fully combining the backend for a streamlined user experience. The owner 
 can update inventory and add parts. The buyer can purchase a completed product and check out
 
-<!--### Simple Timer
-### 
--->
+### Simple Timer
+<a href="https://simple-timer-9qt.pages.dev/">Simple Timer (use the app!)</a>
+<br>
+<a href="https://github.com/WaterStrider21/Simple-Timer/tree/main">Simple Timer Repository</a>
+<br>
+<a href="https://youtu.be/bypdMDqcGKM">Video</a>
+<br>
+✅ A customizable pomodoro timer with fixed break times. The end user can upload their own background images and sounds or use the variety of included settings. The app is responsive and ready for mobile use.
+<br>
+✅ The app was created using React/Vite frameworks, and Typescript. Styled with vanilla and tailwind CSS.
+<br>
+✅ Converts a number into a time string by flooring it, rejects negatives, and adds a leading zero when needed. It also converts a total number of seconds into an object with hours, minutes, and seconds.
+
+
 ## Education
 I hold an Associate of Science in Accounting from Harper College and completed a Bachelor of Science in Computer Science in June 2026. I am available for new opportunities in the technology and Fintech sectors.
 
