@@ -1,17 +1,12 @@
-<body style="background-color:#FFFFFF" >
-
 # Portfolio
 <div style="width: 100vw; height: 100vh; box-sizing: border-box; overflow: hidden;">
-<p align="left">
+<p>
   <a href="https://codepen.io/your-work"><img src="CodePen_logo.png" alt="CodePen" height="18"></a>
   <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a>
   <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
 </p>
 <img align="left" src="selfie.jpeg" alt="selfie" height=300px>
-</div>
-<div style="align:right;width: 100vw; height: 100vh; white-space: nowrap; box-sizing: border-box; overflow: hidden;">
 Hi I'm Emily,
-<br>
 <br>
 My core expertise spans EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
         <br>
@@ -19,14 +14,14 @@ In addition to my EDI and data analysis responsibilities, I have been building a
         These projects reflect my growing focus on full-stack development using HTML, CSS, Typescript, JavaScript, Python, Java, and SQL to create efficient, user-focused applications.
         <br>
         I am available for new opportunities in the technology and Fintech sectors.
-</div>
 <br>
 <br>
 <br>
-
+<br>
+<br> 
+  
 ## Projects
 ### E-Commerce Project
-<div style="background-color:#FFC067">
 <a href="https://github.com/WaterStrider21/D287_Emily-s_Wagons">Emily's Wagons Repository(Ecommerce Project)</a>
 ★
 <a href="https://www.youtube.com/watch?v=zy6yjjl9pjU">Video</a>
@@ -37,10 +32,9 @@ In addition to my EDI and data analysis responsibilities, I have been building a
 above maximum, out of stock.<br><br>
 ✅The user interface is interactive fully combining the backend for a streamlined user experience. The owner 
 can update inventory and add parts. The buyer can purchase a completed product and check out
-</div>
+
 
 ### Simple Timer
-<div style="background-color:#FFC067">
 <a href="https://simple-timer-9qt.pages.dev/">Simple Timer (use the app!)</a> ★
 <a href="https://github.com/WaterStrider21/Simple-Timer/tree/main">Simple Timer Repository</a> ★
 <a href="https://youtu.be/bypdMDqcGKM">Video</a>
@@ -50,7 +44,6 @@ can update inventory and add parts. The buyer can purchase a completed product a
 ✅ The app was created using React/Vite frameworks, and Typescript. Styled with vanilla and tailwind CSS.
 <br><br>
 ✅ Converts a number into a time string by flooring it, rejects negatives, and adds a leading zero when needed. It also converts a total number of seconds into an object with hours, minutes, and seconds.
-</div>
 
 ## Education
 ★ Associate of Science in Accounting from Harper College
