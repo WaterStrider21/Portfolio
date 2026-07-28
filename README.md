@@ -14,11 +14,7 @@ In addition to my EDI and data analysis responsibilities, I have been building a
         These projects reflect my growing focus on full-stack development using HTML, CSS, Typescript, JavaScript, Python, Java, and SQL to create efficient, user-focused applications.
         <br>
         I am available for new opportunities in the technology and Fintech sectors.
-<br>
-<br>
-<br>
-<br>
-<br> 
+<br><br><br><br><br>
   
 ## Projects
 ### E-Commerce Project
@@ -32,7 +28,6 @@ In addition to my EDI and data analysis responsibilities, I have been building a
 above maximum, out of stock.<br><br>
 ✅The user interface is interactive fully combining the backend for a streamlined user experience. The owner 
 can update inventory and add parts. The buyer can purchase a completed product and check out
-
 
 ### Simple Timer
 <a href="https://simple-timer-9qt.pages.dev/">Simple Timer (use the app!)</a> ★
