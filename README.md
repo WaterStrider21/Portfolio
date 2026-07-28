@@ -6,7 +6,7 @@
   <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
 </p>
 
-<img align="left" src="selfie.jpeg" alt="selfie" height=300px>
+<img align="left" src="selfie.jpeg" alt="selfie" height="300">
 Hi I'm Emily,
 
 My core expertise spans EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
@@ -56,4 +56,4 @@ EDI: AS2 & SFTP setups, AS2 certificate installation & testing, EDIFACT, ANSI X1
 Frameworks, Software & Version Control: Node.js, Angular, Spring Boot, Git, Linux, Ubuntu
 
 ## Resume
-View my [Resume](https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc50e894d94ee376b7baf9be5adcc/EF_Resume_72026.docx.pdf)
+View my [Resume(https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc50e894d94ee376b7baf9be5adcc/EF_Resume_72026.docx.pdf)
