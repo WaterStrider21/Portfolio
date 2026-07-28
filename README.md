@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/emily-l-498871115/"><img src="LI-Logo.png" alt="LinkedIn" height="18"></a>
   <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
 </p>
-<img align="left" src="IMG_3193.jpeg" alt="selfie" height="20">
+<img align="left" src="IMG_3193.jpeg" alt="selfie" height=400px>
 
 Hi I'm Emily,
 
