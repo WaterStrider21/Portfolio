@@ -23,12 +23,10 @@ In addition to my EDI and data analysis responsibilities, I have been building a
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## Projects
 ### E-Commerce Project
-<div>
+<div style="background-color:#FFC067">
 <a href="https://github.com/WaterStrider21/D287_Emily-s_Wagons">Emily's Wagons Repository(Ecommerce Project)</a>
 ★
 <a href="https://www.youtube.com/watch?v=zy6yjjl9pjU">Video</a>
@@ -42,7 +40,7 @@ can update inventory and add parts. The buyer can purchase a completed product a
 </div>
 
 ### Simple Timer
-<div>
+<div style="background-color:#FFC067">
 <a href="https://simple-timer-9qt.pages.dev/">Simple Timer (use the app!)</a> ★
 <a href="https://github.com/WaterStrider21/Simple-Timer/tree/main">Simple Timer Repository</a> ★
 <a href="https://youtu.be/bypdMDqcGKM">Video</a>
