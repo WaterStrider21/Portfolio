@@ -6,7 +6,7 @@
   <a href="https://github.com/WaterStrider21"><img src="GitHub_Invertocat_Black.png" alt="GitHub" height="18"></a>
 </p>
 
-<img align="left" src="selfie.jpeg" alt="selfie" height="300">
+<!--<img align="left" src="selfie.jpeg" alt="selfie" height="300">-->
 Hi I'm Emily,
 
 My core expertise spans EDI process optimization, and business data integration using tools such as SAP and Teradata SQL.
