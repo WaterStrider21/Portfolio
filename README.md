@@ -60,4 +60,3 @@ View my [Resume](https://github.com/WaterStrider21/Portfolio/blob/54df1e964f7fc5
 
 ## Contact
 Email: mledale2105@gmail.com
-Phone: 847-850-9725
